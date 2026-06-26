@@ -13,3 +13,5 @@
     <img src="https://github.com/humairaaryantik/Netflix-Analyst-with-Python/blob/49428d0e833db421819ae43b6cf9380119fa21a5/Netflix%20Analyst/Netflix%20with%20Python_pages-to-jpg-0012.jpg" alt="image" style="display:block;"/>
     <img src="https://github.com/humairaaryantik/Netflix-Analyst-with-Python/blob/49428d0e833db421819ae43b6cf9380119fa21a5/Netflix%20Analyst/Netflix%20with%20Python_pages-to-jpg-0013.jpg" alt="image" style="display:block;"/>
     <img src="https://github.com/humairaaryantik/Netflix-Analyst-with-Python/blob/49428d0e833db421819ae43b6cf9380119fa21a5/Netflix%20Analyst/Netflix%20with%20Python_pages-to-jpg-0014.jpg" alt="image" style="display:block;"/>
+    <img src="https://github.com/humairaaryantik/Netflix-Analyst-with-Python/blob/49428d0e833db421819ae43b6cf9380119fa21a5/Netflix%20Analyst/Netflix%20with%20Python_pages-to-jpg-0015.jpg" alt="image" style="display:block;"/>
+    <img src="https://github.com/humairaaryantik/Netflix-Analyst-with-Python/blob/49428d0e833db421819ae43b6cf9380119fa21a5/Netflix%20Analyst/Netflix%20with%20Python_pages-to-jpg-0016.jpg" alt="image" style="display:block;"/>
